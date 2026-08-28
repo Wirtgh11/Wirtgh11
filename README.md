@@ -7,7 +7,7 @@ Specialized in plugins, game modifications, tools, and desktop applications.
 
 ### 🛠 Tech Stack
 
-- **Languages:** `Java` | `Kotlin` | `Python` | `C++`
+- **Languages:** `Java` | `Kotlin` | `Python` | `C#` | `HTML`
 - **Game Dev & Plugins:** Spigot/Paper API, Garry's Mod (Lua/Source), Custom APIs & Mechanics
 - **Databases:** SQLite, MySQL
 - **Tools & Frameworks:** Git, Gradle, Maven, Tkinter, PyQt
@@ -23,7 +23,7 @@ Custom plugins for game servers including economy systems, custom items, and GUI
 
 #### 🛠 Game Tools & Scripting (C++ / Python / Lua)
 Mods and custom scripting systems for expanding in-game functionality and AI behavior.
-- **Tech:** C++, Python, Lua
+- **Tech:** C#, Python, Lua
 - 🔗 [View Code](https://github.com/Wirtgh11)
 
 #### 💻 Desktop & Database Manager (Python / SQLite)
