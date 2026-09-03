@@ -7,32 +7,29 @@ Specialized in plugins, game modifications, tools, and desktop applications.
 
 ### 🛠 Tech Stack
 
-- **Languages:** `Java` | `Kotlin` | `Python` | `C++` | `HTML`
-- **Game Dev & Plugins:** Spigot/Paper API, Garry's Mod (Lua/Source), Custom APIs & Mechanics
-- **Databases:** SQLite, MySQL
-- **Tools & Frameworks:** Git, Gradle, Maven, Tkinter, PyQt
+- Languages: `Java` | `Python` | `HTML`
+- Game Dev & Plugins: Spigot/Paper API, Custom APIs & Mechanics
+- Databases: SQLite, MySQL
+- Tools & Frameworks: Git, Gradle, Maven, Tkinter, PyQt
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🎮 Advanced Server Mechanics (Java / Kotlin)
+#### 🎮 Advanced Server Mechanics ( Java )
 Custom plugins for game servers including economy systems, custom items, and GUI.
-- **Tech:** Java, Spigot API, SQLite/MySQL
-- 🔗 [View Code](https://github.com/Wirtgh11)
+- Tech: Java, Spigot API, SQLite/MySQL
 
-#### 🛠 Game Tools & Scripting (C++ / Python / Lua)
+#### 🛠 Game Tools & Scripting ( Python )
 Mods and custom scripting systems for expanding in-game functionality and AI behavior.
-- **Tech:** C++, Python, Lua
-- 🔗 [View Code](https://github.com/Wirtgh11)
+- Tech: Python
 
 #### 💻 Desktop & Database Manager (Python / SQLite)
 GUI application for managing, analyzing, and structuring local databases.
-- **Tech:** Python, Tkinter/PyQt, SQLite
-- 🔗 [View Code](https://github.com/Wirtgh11)
+- Tech: Python, Tkinter/PyQt, SQLite
 
 ---
 
 ### 📫 How to reach me
-- **Telegram: @Mfal111
-- **Discord: wirtgh11
+- Telegram: @Mfal111
+- Discord: wirtgh11
