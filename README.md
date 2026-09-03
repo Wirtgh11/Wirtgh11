@@ -7,7 +7,7 @@ Specialized in plugins, game modifications, tools, and desktop applications.
 
 ### 🛠 Tech Stack
 
-- Languages: `Java` | `Python` | `HTML`
+- Languages: `Java` | `Python` | `HTML` | `Kotlin`
 - Game Dev & Plugins: Spigot/Paper API, Custom APIs & Mechanics
 - Databases: SQLite, MySQL
 - Tools & Frameworks: Git, Gradle, Maven, Tkinter, PyQt
@@ -16,7 +16,7 @@ Specialized in plugins, game modifications, tools, and desktop applications.
 
 ### 🚀 Featured Projects
 
-#### 🎮 Advanced Server Mechanics ( Java )
+#### 🎮 Advanced Server Mechanics ( Java | Kotlin )
 Custom plugins for game servers including economy systems, custom items, and GUI.
 - Tech: Java, Spigot API, SQLite/MySQL
 
